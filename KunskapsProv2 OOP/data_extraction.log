@@ -1,0 +1,16 @@
+2024-09-11 20:51:02,406 - ERROR - An error has occured [Errno 2] No such file or directory: 'Nigerian_Road_Traffic_Crashes_2020_2025.csv'
+2024-09-11 20:51:43,359 - INFO - data has been read in to the system succesfully
+2024-09-11 20:51:43,361 - INFO - Wanted data has been extracted
+2024-09-11 20:51:43,416 - INFO - Data has been writen to SQLlite
+2024-09-12 19:14:58,722 - INFO - data has been read in to the system succesfully
+2024-09-12 19:14:58,728 - INFO - Wanted data has been extracted
+2024-09-12 19:14:58,782 - INFO - Data has been writen to SQLlite
+2024-09-16 15:12:22,858 - INFO - data has been read in to the system succesfully
+2024-09-16 15:12:22,862 - INFO - Wanted data has been extracted
+2024-09-16 15:12:22,982 - INFO - Data has been writen to SQLlite
+2024-09-18 22:20:04,465 - INFO - data has been read in to the system succesfully
+2024-09-18 22:20:04,470 - INFO - Wanted data has been extracted
+2024-09-18 22:20:04,511 - INFO - Data has been writen to SQLlite
+2024-09-18 22:21:30,151 - INFO - data has been read in to the system succesfully
+2024-09-18 22:21:30,152 - INFO - Wanted data has been extracted
+2024-09-18 22:21:30,199 - INFO - Data has been writen to SQLlite
